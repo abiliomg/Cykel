@@ -25,16 +25,51 @@ public class registerUser {
         Sistema=new BikeRentalSystem(3);
 
     }
-/*
-    @Test
-    void caseID1()  {
-        try {
-          Sistema.registerUser(1,"Ricardo",1);
-        } catch (UserAlreadyExists userAlreadyExists) {
-            userAlreadyExists.printStackTrace();
-        }
+
+
+    @Test //Teste case com rentalProgram inválido
+    void caseID1()throws UserAlreadyExists {
+        Sistema.registerUser(1,"Ricardo",0);
+        assertNotEquals(1,Sistema.getUsers().get(0).getIDUser());
     }
-    */
+
+    @Test //Teste case com todos os campos válidos
+    void caseID2()throws UserAlreadyExists {
+        Sistema.registerUser(1,"Ricardo",1);
+        assertEquals(1,Sistema.getUsers().get(0).getIDUser());
+    }
+
+    @Test //Teste case com todos os campos válidos
+    void caseID3()throws UserAlreadyExists {
+        Sistema.registerUser(1,"Ricardo",2);
+        assertEquals(1,Sistema.getUsers().get(0).getIDUser());
+    }
+
+    @Test //Teste case com rentralProgram inválido
+    void caseID4()throws UserAlreadyExists{
+        Sistema.registerUser(1,"Ricardo",3);
+        assertNotEquals(1,Sistema.getUsers().get(0).getIDUser());
+
+    }
+
+    @Test //Teste case com name inválido
+    void caseID5()throws UserAlreadyExists{
+        Sistema.registerUser(1,null,1);
+        assertNotEquals(1,Sistema.getUsers().get(0).getIDUser());
+    }
+
+    @Test //Teste case com todos os campos válidos
+    void caseID6() throws UserAlreadyExists {
+        Sistema.registerUser(1,"Ricardo",1);
+        assertEquals(1,Sistema.getUsers().get(0).getIDUser());
+    }
+
+    @Test // Teste case em que é adicionado um utilizador com id invalido
+    void caseID7() throws UserAlreadyExists {
+        Sistema.registerUser(-1,"Ricardo",1);
+        assertNotEquals(-1,Sistema.getUsers().get(0).getIDUser());
+
+   }
 
     @Test //Teste Case em que já existe um utilizador com o mesmo ID
     void caseID8() throws UserAlreadyExists {
