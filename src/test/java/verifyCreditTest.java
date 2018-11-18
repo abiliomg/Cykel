@@ -19,9 +19,9 @@ public class verifyCreditTest {
         Sistema.addCredit(1,1);
     }
 
-    @Test
+    @Test //Utilizador com ID invalido
     public void caseID1(){
-
+        assertEquals(null,Sistema.verifyCredit(-1));
 
     }
 
@@ -39,5 +39,4 @@ public class verifyCreditTest {
     public void caseID4(){
         assertEquals(false,Sistema.verifyCredit(2));
     }
-
 }

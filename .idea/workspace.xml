@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d99a520-41a6-4b6d-b45f-fa559419875a" name="Default Changelist" comment="">
+    <list default="true" id="3a866d7f-1e70-4d1f-bfe2-3748149f9196" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/verifyCreditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/verifyCreditTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,71 +59,94 @@
     <session id="-1588037940">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.161" value="1" />
           <entry key="project.open.time.163" value="1" />
-          <entry key="project.open.time.213" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.65" value="1" />
-          <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.80" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="311" />
-          <entry key="java" value="1115" />
-          <entry key="txt" value="181" />
+          <entry key="java" value="504" />
+          <entry key="txt" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="311" />
-          <entry key="JAVA" value="1115" />
-          <entry key="PLAIN_TEXT" value="181" />
+          <entry key="JAVA" value="504" />
+          <entry key="PLAIN_TEXT" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
           <entry key="gradle" value="4" />
-          <entry key="java" value="4" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
+    <session id="-22472122">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitattributes" value="1" />
+          <entry key="gradle" value="2" />
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1261" />
+          <entry key="txt" value="121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1261" />
+          <entry key="PLAIN_TEXT" value="121" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Cykel" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Testes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+            <state relative-caret-position="523">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1022#1023#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/getBicycleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="81" column="25" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,7 +155,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="81">
               <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
             </state>
           </provider>
@@ -140,11 +164,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" column="9" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="47" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/registerUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/verifyCreditTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/getBicycleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1313">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -165,7 +225,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\abili\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Ricardo\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -340,7 +400,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6169075176224" />
+        <entry key="$PROJECT_DIR$" value="6169952576056" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2842756771" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
@@ -459,10 +519,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/Testes.java" />
-        <option value="$PROJECT_DIR$/src/test/java/getBicycleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/registerUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/verifyCreditTest.java" />
       </list>
     </option>
   </component>
@@ -473,8 +534,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
+    <option name="x" value="-8" />
+    <option name="width" value="698" />
     <option name="height" value="775" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -531,12 +592,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="PackagesPane">
+        <subPane>
           <expand>
             <path>
-              <item name="Cykel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Cykel" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Cykel" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Cykel" type="eaaa3913:PackageViewModuleGroupNode" />
             </path>
           </expand>
           <select />
@@ -584,12 +645,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Cykel" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Cykel" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="Cykel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Cykel" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
@@ -601,7 +662,8 @@
     <property name="SearchEverywhereHistoryKey" value="gradle&#9;ACTION&#9;ActivateGradleToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542574105154" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542574891491" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -628,7 +690,6 @@
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/Testes.java</PATH>
         </FILE-GROUP>
@@ -638,6 +699,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/getBicycleTest.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -738,56 +800,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.getBicycleTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Cykel_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Cykel [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.verifyCreditTest">
+    <configuration name="verifyCreditTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="check" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="Cykel [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="Testes.getBicycleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;Testes.getBicycleTest&quot;" />
+        <option name="scriptParameters" value="--tests verifyCreditTest" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -801,12 +820,69 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="getBicycleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="verifyCreditTest.caseID1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests getBicycleTest" />
+        <option name="scriptParameters" value="--tests &quot;verifyCreditTest.caseID1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="verifyCreditTest.caseID2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;verifyCreditTest.caseID2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="verifyCreditTest.caseID3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;verifyCreditTest.caseID3&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="verifyCreditTest.caseID4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;verifyCreditTest.caseID4&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -821,19 +897,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Gradle.Testes.getBicycleTest" />
-      <item itemvalue="Gradle.Cykel [test]" />
-      <item itemvalue="Gradle.Cykel [check]" />
-      <item itemvalue="Gradle.getBicycleTest" />
+      <item itemvalue="Gradle.verifyCreditTest.caseID2" />
+      <item itemvalue="Gradle.verifyCreditTest.caseID3" />
+      <item itemvalue="Gradle.verifyCreditTest.caseID4" />
+      <item itemvalue="Gradle.verifyCreditTest" />
+      <item itemvalue="Gradle.verifyCreditTest.caseID1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.getBicycleTest" />
-        <item itemvalue="Gradle.Cykel [test]" />
-        <item itemvalue="Gradle.Cykel [check]" />
-        <item itemvalue="Gradle.Testes.getBicycleTest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.verifyCreditTest" />
+        <item itemvalue="Gradle.verifyCreditTest.caseID1" />
+        <item itemvalue="Gradle.verifyCreditTest.caseID4" />
+        <item itemvalue="Gradle.verifyCreditTest.caseID3" />
+        <item itemvalue="Gradle.verifyCreditTest.caseID2" />
       </list>
     </recent_temporary>
   </component>
@@ -852,9 +928,8 @@
       <workItem from="1542119717575" duration="2709000" />
       <workItem from="1542283131471" duration="414000" />
       <workItem from="1542366395260" duration="1138000" />
-      <workItem from="1542495038352" duration="8368000" />
-      <workItem from="1542546120540" duration="2678000" />
-      <workItem from="1542549513006" duration="4229000" />
+      <workItem from="1542495038352" duration="8134000" />
+      <workItem from="1542549477750" duration="12940000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1542035860927</created>
@@ -891,76 +966,76 @@
       <option name="project" value="LOCAL" />
       <updated>1542123377772</updated>
     </task>
-    <task id="LOCAL-00006" summary="gradle alterado e inicio de testes">
-      <created>1542504311857</created>
+    <task id="LOCAL-00006" summary="Teste Verify User (não completo)">
+      <created>1542564060886</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1542504311857</updated>
+      <updated>1542564060887</updated>
     </task>
-    <task id="LOCAL-00007" summary="getBicycleTest Parcialmente resolvido">
-      <created>1542574054929</created>
+    <task id="LOCAL-00007" summary="registerUser e verifyCreditTest (parcialmente resolvido)">
+      <created>1542573975914</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1542574054976</updated>
+      <updated>1542573975914</updated>
     </task>
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="getBicycleTest - 2018.11.18 at 19h 33m 10s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID2 - 2018.11.18 at 20h 29m 11s.xml">
+      <configuration name="verifyCreditTest.caseID2" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 19h 33m 32s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID2 - 2018.11.18 at 20h 29m 29s.xml">
+      <configuration name="verifyCreditTest.caseID2" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 19h 34m 57s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID3 - 2018.11.18 at 20h 32m 52s.xml">
+      <configuration name="verifyCreditTest.caseID3" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 19h 57m 26s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID3 - 2018.11.18 at 20h 33m 36s.xml">
+      <configuration name="verifyCreditTest.caseID3" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 20h 31m 05s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID4 - 2018.11.18 at 20h 37m 02s.xml">
+      <configuration name="verifyCreditTest.caseID4" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 20h 34m 01s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID4 - 2018.11.18 at 20h 37m 18s.xml">
+      <configuration name="verifyCreditTest.caseID4" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 20h 34m 02s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID4 - 2018.11.18 at 20h 49m 04s.xml">
+      <configuration name="verifyCreditTest.caseID4" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 20h 35m 59s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest - 2018.11.18 at 20h 49m 14s.xml">
+      <configuration name="verifyCreditTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 20h 39m 11s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest_caseID1 - 2018.11.18 at 20h 56m 29s.xml">
+      <configuration name="verifyCreditTest.caseID1" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="getBicycleTest - 2018.11.18 at 20h 39m 12s.xml">
-      <configuration name="getBicycleTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="verifyCreditTest - 2018.11.18 at 20h 58m 53s.xml">
+      <configuration name="verifyCreditTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29639000" />
+    <option name="totallyTimeSpent" value="27515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23146747" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49739584" visible="true" weight="0.22751679" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5026042" side_tool="true" visible="true" weight="0.22751679" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5123077" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -970,7 +1045,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" weight="0.3290469" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32885906" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -989,8 +1064,9 @@
     <MESSAGE value="Third Commit&#10;Alteração do jdk" />
     <MESSAGE value="Fourth Commit&#10;Inserção de main" />
     <MESSAGE value="gradle alterado e inicio de testes" />
-    <MESSAGE value="getBicycleTest Parcialmente resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="getBicycleTest Parcialmente resolvido" />
+    <MESSAGE value="Teste Verify User (não completo)" />
+    <MESSAGE value="registerUser e verifyCreditTest (parcialmente resolvido)" />
+    <option name="LAST_COMMIT_MESSAGE" value="registerUser e verifyCreditTest (parcialmente resolvido)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/lib/BikeSharing-1.0-SNAPSHOT.jar!/Models/Deposit.class">
@@ -1014,51 +1090,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="81">
           <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="9" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Testes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        <state relative-caret-position="523">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.1/b03f607c0822a283c972e37eaeacb00dc3a3c2e7/junit-jupiter-api-5.3.1-sources.jar!/org/junit/jupiter/api/function/Executable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
+        <state relative-caret-position="192">
           <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/registerUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/getBicycleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="25" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="25" />
+        <state relative-caret-position="-1313">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/verifyCreditTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
           </folding>
         </state>
       </provider>
