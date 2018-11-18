@@ -14,7 +14,7 @@ public class Testes{
     public void executedBeforeEach(){
         BikeRentalSystem Sistema=new BikeRentalSystem(1);
         try {
-            Sistema.registerUser(1,"um",1);
+            Sistema.registerUserTest(1,"um",1);
         } catch (UserAlreadyExists userAlreadyExists) {
             userAlreadyExists.printStackTrace();
         }
@@ -48,9 +48,9 @@ public class Testes{
     public void getBicycleTest() throws UserAlreadyExists, UserDoesNotExists {
 
         BikeRentalSystem Sistema=new BikeRentalSystem(1);
-        Sistema.registerUser(1,"um",1);
-        Sistema.registerUser(2,"dois",2);
-        Sistema.registerUser(3,"tres",3);
+        Sistema.registerUserTest(1,"um",1);
+        Sistema.registerUserTest(2,"dois",2);
+        Sistema.registerUserTest(3,"tres",3);
         Sistema.addCredit(1,1);
         Sistema.addCredit(2,2);
         Sistema.addBicycle(1,1,1);

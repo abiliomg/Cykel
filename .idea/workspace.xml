@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a866d7f-1e70-4d1f-bfe2-3748149f9196" name="Default Changelist" comment="verifyCreditTest (completo)">
+    <list default="true" id="3a866d7f-1e70-4d1f-bfe2-3748149f9196" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/bycicleRentalFeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/registerUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/registerUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jadoc/BikeRentalSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jadoc/BikeRentalSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jadoc/Interfaces/AdministratorInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jadoc/Interfaces/AdministratorInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jadoc/Interfaces/BikeRentalInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jadoc/Interfaces/BikeRentalInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jadoc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jadoc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc2/BikeRentalSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDoc2/BikeRentalSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc2/Interfaces/AdministratorInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDoc2/Interfaces/AdministratorInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc2/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDoc2/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Testes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/getBicycleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/getBicycleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/registerUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/registerUserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/verifyCreditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/verifyCreditTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -104,26 +122,27 @@
         <counts>
           <entry key="gitattributes" value="1" />
           <entry key="gradle" value="2" />
-          <entry key="java" value="6" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1828" />
-          <entry key="txt" value="151" />
+          <entry key="dummy" value="8" />
+          <entry key="java" value="2158" />
+          <entry key="txt" value="164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1828" />
-          <entry key="PLAIN_TEXT" value="151" />
+          <entry key="JAVA" value="2158" />
+          <entry key="PLAIN_TEXT" value="172" />
         </counts>
       </usages-collector>
     </session>
@@ -136,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Testes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="952">
+              <caret line="56" column="34" lean-forward="true" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
@@ -148,10 +167,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/test/java/registerUserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="289">
+              <caret line="23" column="63" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,19 +182,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/registerUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,10 +193,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/verifyCreditTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="20" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="-55">
+              <caret line="2" column="9" lean-forward="true" selection-start-line="1" selection-end-line="4" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#561#562#0" expanded="true" />
                 <element signature="e#591#592#0" expanded="true" />
                 <element signature="e#700#701#0" expanded="true" />
@@ -198,11 +207,48 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/bycicleRentalFeeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1027#1028#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#1228#1229#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1324#1325#0" expanded="true" />
+                <element signature="e#1389#1390#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1182#1183#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
+                <element signature="e#1310#1311#0" expanded="true" />
+                <element signature="e#1377#1378#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/getBicycleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1058">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="-1207">
+              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -519,9 +565,13 @@
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/Testes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/verifyCreditTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/registerUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/getBicycleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/verifyCreditTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bycicleRentalFee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/registerUserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bycicleRentalFeeTest.java" />
       </list>
     </option>
   </component>
@@ -660,7 +710,7 @@
     <property name="SearchEverywhereHistoryKey" value="gradle&#9;ACTION&#9;ActivateGradleToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542577191255" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542580852448" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -798,13 +848,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.registerUser">
-    <configuration name="registerUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.bycicleRentalFeeTest.caseID10">
+    <configuration name="bycicleRentalFeeTest.caseID1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests registerUser" />
+        <option name="scriptParameters" value="--tests &quot;bycicleRentalFeeTest.caseID1&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -818,12 +868,12 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="registerUser.caseID1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="bycicleRentalFeeTest.caseID10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;registerUser.caseID1&quot;" />
+        <option name="scriptParameters" value="--tests &quot;bycicleRentalFeeTest.caseID10&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -837,12 +887,12 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="registerUser.caseID2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="bycicleRentalFeeTest.caseID4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;registerUser.caseID2&quot;" />
+        <option name="scriptParameters" value="--tests &quot;bycicleRentalFeeTest.caseID4&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -856,12 +906,12 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="registerUser.caseID3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="bycicleRentalFeeTest.caseID6" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;registerUser.caseID3&quot;" />
+        <option name="scriptParameters" value="--tests &quot;bycicleRentalFeeTest.caseID6&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -875,12 +925,12 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="registerUser.caseID4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="bycicleRentalFeeTest.caseID7" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;registerUser.caseID4&quot;" />
+        <option name="scriptParameters" value="--tests &quot;bycicleRentalFeeTest.caseID7&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -895,19 +945,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Gradle.registerUser.caseID4" />
-      <item itemvalue="Gradle.registerUser.caseID2" />
-      <item itemvalue="Gradle.registerUser.caseID3" />
-      <item itemvalue="Gradle.registerUser.caseID1" />
-      <item itemvalue="Gradle.registerUser" />
+      <item itemvalue="Gradle.bycicleRentalFeeTest.caseID1" />
+      <item itemvalue="Gradle.bycicleRentalFeeTest.caseID4" />
+      <item itemvalue="Gradle.bycicleRentalFeeTest.caseID6" />
+      <item itemvalue="Gradle.bycicleRentalFeeTest.caseID7" />
+      <item itemvalue="Gradle.bycicleRentalFeeTest.caseID10" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.registerUser" />
-        <item itemvalue="Gradle.registerUser.caseID1" />
-        <item itemvalue="Gradle.registerUser.caseID3" />
-        <item itemvalue="Gradle.registerUser.caseID2" />
-        <item itemvalue="Gradle.registerUser.caseID4" />
+        <item itemvalue="Gradle.bycicleRentalFeeTest.caseID10" />
+        <item itemvalue="Gradle.bycicleRentalFeeTest.caseID7" />
+        <item itemvalue="Gradle.bycicleRentalFeeTest.caseID6" />
+        <item itemvalue="Gradle.bycicleRentalFeeTest.caseID4" />
+        <item itemvalue="Gradle.bycicleRentalFeeTest.caseID1" />
       </list>
     </recent_temporary>
   </component>
@@ -927,7 +977,7 @@
       <workItem from="1542283131471" duration="414000" />
       <workItem from="1542366395260" duration="1138000" />
       <workItem from="1542495038352" duration="8134000" />
-      <workItem from="1542549477750" duration="15392000" />
+      <workItem from="1542549477750" duration="19045000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1542035860927</created>
@@ -985,43 +1035,50 @@
       <option name="project" value="LOCAL" />
       <updated>1542574932597</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="registerUser">
+      <created>1542577223100</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542577223100</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="registerUser_caseID1 - 2018.11.18 at 21h 13m 47s.xml">
-      <configuration name="registerUser.caseID1" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID15 - 2018.11.18 at 22h 31m 38s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID15" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID1 - 2018.11.18 at 21h 15m 02s.xml">
-      <configuration name="registerUser.caseID1" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID1 - 2018.11.18 at 22h 34m 08s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID1" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID6 - 2018.11.18 at 21h 24m 53s.xml">
-      <configuration name="registerUser.caseID6" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID1 - 2018.11.18 at 22h 34m 31s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID1" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID5 - 2018.11.18 at 21h 27m 30s.xml">
-      <configuration name="registerUser.caseID5" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID4 - 2018.11.18 at 22h 35m 39s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID4" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID4 - 2018.11.18 at 21h 30m 18s.xml">
-      <configuration name="registerUser.caseID4" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID6 - 2018.11.18 at 22h 36m 57s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID6" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID2 - 2018.11.18 at 21h 33m 28s.xml">
-      <configuration name="registerUser.caseID2" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID7 - 2018.11.18 at 22h 37m 53s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID7" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID2 - 2018.11.18 at 21h 33m 47s.xml">
-      <configuration name="registerUser.caseID2" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID6 - 2018.11.18 at 22h 38m 25s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID6" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID3 - 2018.11.18 at 21h 33m 55s.xml">
-      <configuration name="registerUser.caseID3" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID7 - 2018.11.18 at 22h 38m 43s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID7" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser_caseID1 - 2018.11.18 at 21h 39m 05s.xml">
-      <configuration name="registerUser.caseID1" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID10 - 2018.11.18 at 22h 39m 31s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID10" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="registerUser - 2018.11.18 at 21h 39m 15s.xml">
-      <configuration name="registerUser" configurationId="GradleRunConfiguration" />
+    <history-entry file="bycicleRentalFeeTest_caseID10 - 2018.11.18 at 22h 39m 50s.xml">
+      <configuration name="bycicleRentalFeeTest.caseID10" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29967000" />
+    <option name="totallyTimeSpent" value="33620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -1034,8 +1091,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5026042" side_tool="true" visible="true" weight="0.22751679" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.45531914" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932885" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986577" visible="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1043,7 +1100,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.45531914" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" visible="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32886904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1072,7 +1129,8 @@
     <MESSAGE value="Teste Verify User (não completo)" />
     <MESSAGE value="registerUser e verifyCreditTest (parcialmente resolvido)" />
     <MESSAGE value="verifyCreditTest (completo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="verifyCreditTest (completo)" />
+    <MESSAGE value="registerUser" />
+    <option name="LAST_COMMIT_MESSAGE" value="registerUser" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/lib/BikeSharing-1.0-SNAPSHOT.jar!/Models/Deposit.class">
@@ -1099,35 +1157,6 @@
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Testes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.1/b03f607c0822a283c972e37eaeacb00dc3a3c2e7/junit-jupiter-api-5.3.1-sources.jar!/org/junit/jupiter/api/function/Executable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1142,19 +1171,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Testes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="34" lean-forward="true" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/getBicycleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1058">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="-1207">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/registerUserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/verifyCreditTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="20" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="-55">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="1" selection-end-line="4" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#561#562#0" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
             <element signature="e#700#701#0" expanded="true" />
@@ -1165,12 +1235,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/registerUser.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/bycicleRentalFeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="166">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1377#1378#0" expanded="true" />
           </folding>
         </state>
       </provider>

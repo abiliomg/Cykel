@@ -1,21 +1,12 @@
 import Exceptions.UserAlreadyExists;
-import Exceptions.UserDoesNotExists;
-
-
 import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 
 
 
-public class registerUser {
-
-
-
+public class registerUserTest {
 
     private BikeRentalSystem Sistema;
 
