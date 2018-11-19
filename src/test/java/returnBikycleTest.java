@@ -3,12 +3,13 @@ import Exceptions.UserDoesNotExists;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
 public class returnBikycleTest {
     public BikeRentalSystem sistema;
     @BeforeEach
     public void preCondicoes() throws UserAlreadyExists, UserDoesNotExists {
         sistema=null;
-        sistema=new BikeRentalSystem(1);
+        sistema=new BikeRentalSystem(3);
         sistema.registerUser(0,"um",1);
         sistema.registerUser(1,"dois",2);
         sistema.addCredit(0,1);
