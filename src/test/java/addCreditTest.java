@@ -33,6 +33,7 @@ public class addCreditTest {
     }
     @Test
     public void testCase4(){
+
         sistema.addCredit(-1,1);
     }
     @Test
